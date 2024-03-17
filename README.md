@@ -1,9 +1,4 @@
-# package_name
-
-Description. 
-The package package_name is used to:
-	- 
-	-
+# image-processing-package
 
 ## Installation
 
@@ -21,7 +16,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Leonardo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
